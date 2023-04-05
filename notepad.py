@@ -1,5 +1,6 @@
 def hello():
-    print("Hello notepad file")
+    message = "Hello function"
+    print(message.upper())
 
 
 hello()
