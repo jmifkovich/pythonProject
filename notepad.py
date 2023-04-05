@@ -1,5 +1,5 @@
 def hello():
-    message = "Hello function"
+    message = "Hello LittleChatte Made an Update"
     print(message.upper())
 
 
